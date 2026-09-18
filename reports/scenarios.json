@@ -1,0 +1,101 @@
+[
+  {
+    "scenario": "balanced",
+    "status": "complete",
+    "placed": 102,
+    "total": 102,
+    "seconds": 8.875,
+    "hard_violations": [],
+    "errors": []
+  },
+  {
+    "scenario": "small",
+    "status": "complete",
+    "placed": 48,
+    "total": 48,
+    "seconds": 8.843,
+    "hard_violations": [],
+    "errors": []
+  },
+  {
+    "scenario": "few_rooms",
+    "status": "partial",
+    "placed": 77,
+    "total": 104,
+    "seconds": 9.219,
+    "hard_violations": [],
+    "errors": []
+  },
+  {
+    "scenario": "few_teachers",
+    "status": "partial",
+    "placed": 60,
+    "total": 104,
+    "seconds": 9.219,
+    "hard_violations": [],
+    "errors": []
+  },
+  {
+    "scenario": "scarce",
+    "status": "partial",
+    "placed": 27,
+    "total": 52,
+    "seconds": 9.156,
+    "hard_violations": [],
+    "errors": []
+  },
+  {
+    "scenario": "many_students",
+    "status": "infeasible",
+    "placed": 0,
+    "total": 104,
+    "seconds": 0.297,
+    "hard_violations": [],
+    "errors": []
+  },
+  {
+    "scenario": "many_rooms",
+    "status": "complete",
+    "placed": 104,
+    "total": 104,
+    "seconds": 8.937,
+    "hard_violations": [],
+    "errors": []
+  },
+  {
+    "scenario": "many_teachers",
+    "status": "complete",
+    "placed": 104,
+    "total": 104,
+    "seconds": 8.953,
+    "hard_violations": [],
+    "errors": []
+  },
+  {
+    "scenario": "large",
+    "status": "complete",
+    "placed": 728,
+    "total": 728,
+    "seconds": 9.156,
+    "hard_violations": [],
+    "errors": []
+  },
+  {
+    "scenario": "two_shifts",
+    "status": "complete",
+    "placed": 84,
+    "total": 84,
+    "seconds": 8.891,
+    "hard_violations": [],
+    "errors": []
+  },
+  {
+    "scenario": "calendar",
+    "status": "complete",
+    "placed": 102,
+    "total": 102,
+    "seconds": 8.906,
+    "hard_violations": [],
+    "errors": []
+  }
+]

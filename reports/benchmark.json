@@ -1,0 +1,18 @@
+{
+  "machine": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "python": "3.12.14",
+  "solver": "9.15.6755",
+  "classes": 28,
+  "students": 600,
+  "teachers": 60,
+  "rooms": 35,
+  "expected_lessons": 728,
+  "placed": 728,
+  "status": "complete",
+  "wall_seconds": 9.265,
+  "hard_violations": [],
+  "seed": 42,
+  "workers": 8,
+  "optimal": false
+}
